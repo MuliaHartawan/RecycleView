@@ -1,0 +1,69 @@
+<resources>
+    <array name="anggota_picture">
+        <item>@drawable/acha</item>
+        <item>@drawable/arnov</item>
+        <item>@drawable/aziz</item>
+        <item>@drawable/bagus</item>
+        <item>@drawable/cindy</item>
+        <item>@drawable/faisal</item>
+        <item>@drawable/irsa</item>
+        <item>@drawable/iyan</item>
+        <item>@drawable/jezy</item>
+        <item>@drawable/liza</item>
+        <item>@drawable/risa</item>
+        <item>@drawable/rotul</item>
+        <item>@drawable/vira</item>
+    </array>
+    <array name="anggota_nama">
+        <item>Ardhia Pramesti Tasya</item>
+        <item>Arnov Tegar</item>
+        <item>Aziz Solihin</item>
+        <item>Muhammad Bagus Sajiwo</item>
+        <item>Cindy Viona Dzul</item>
+        <item>faisal dwi priatna</item>
+        <item>Irsya Aufa Ambang Ramadhan</item>
+        <item>Adriansyah Ikhsanul Iqbal</item>
+        <item>Roro Jezy Fidharea</item>
+        <item>Siti Nurhalizatus Safaah</item>
+        <item>Risa Nur Atika</item>
+        <item>Roudhotul Jannah</item>
+        <item>Savira Rahmania Putri Ariyanto</item>
+
+    </array>
+    <array name="anggota_biodata">
+        <item>Prodi : S1 Teknik Informatika\nTTL : Sidoarjo, 10 September 2000\nAsal Sekolah : SMAN 1 Menganti, Gresik
+        </item>
+        <item>Prodi : D4 Manajemen Informatika\nTTL : Pacitan, 8 Oktober 2001\nAsal Sekolah : SMA negeri 3 Ponorogo
+        </item>
+        <item>Prodi : S1 Teknik Informatika\nTTL : Segala Anyar, 11 Mei 2001\nAsal Sekolah : SMAN 1 Praya, Kab. Lombok Tengah
+        </item>
+        <item>Prodi : S1 Sistem Informasi\nTTL : 01 November 2000\nAsal Sekolah : SMAN 11 Surabaya
+        </item>
+        <item>Prodi : S1 Teknik Informatika\nTTL : Tuban, 21 Juli 2000\nAsala sekolah : SMA Arrohmah Malang
+        </item>
+        <item>Prodi : S1 Pendidikan Teknologi Informasi\nTTL : Surabaya, 21 April 2001\nAsal Sekolah : SMAN 6 Surabaya
+        </item>
+        <item>Prodi : S1 Teknik Informatika\nTTL : Tulungagung, 18 November 2000\nAsal Sekolah : SMAN 1 Blitar
+        </item>
+        <item>Prodi : S1 Teknik Informatika\nTTL : Surabaya, 05 Februari 2001\nAsal Sekolah : SMKN 1 Surabaya
+        </item>
+        <item>Prodi : S1 Sistem Informasi\nTTL : Pamekasan, 30 Maret 2001\nAsal Sekolah : SMAN 9 Surabaya
+        </item>
+        <item>Prodi : S1 Sistem Informasi\nTTL : Demak, 11 juni 2001\nAsal Sekolah : SMAN 10 Surabaya
+        </item>
+        <item>Prodi : S1 pendidikan teknologi informasi\nTTL : lamongan, 04 februari 2001\nAsal Sekolah : SMK NU 1 karanggeneng lamongan
+        </item>
+        <item>Prodi : D4 Manajemen Informatika\nTTL : Sidoarjo, 06 april 2000\nAsal Sekolah : SMA Islam As Sakinnah Sidoarjo
+        </item>
+        <item>Prodi : S1 Sistem Informasi\nTTL : Gresik, 18 Desember 2000\nAsal Sekolah : SMA Negeri 1 Gresik
+        </item>
+    </array>
+    <string name="app_name">MySubmission</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="anggota">Anggota</string>
+    <string name="profile">Profile</string>
+    <string name="overview">Biodata</string>
+    <string name="nama_anggota">Nama Anggota</string>
+    <string name="nama_kelompok">Nama Kelompok</string>
+
+</resources>
